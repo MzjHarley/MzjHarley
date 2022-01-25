@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MzjHarley)
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
