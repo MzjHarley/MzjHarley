@@ -1,8 +1,8 @@
 ## Hey，MzjHarley here 👋
 I am M**iao** Z**hi**J**un**,a sophomore at HENU.   
 -   🌱 I’m currently learning DataStructuresAndAlgorithms.  
--   👯 I’m looking to collaborate on  
--   🔭 I’m currently working as a university student  
+-   👯 I’m looking to collaborate on doing the similar things.  
+-   🔭 I’m currently working as a university student.  
 -   🤔 I’m looking for help with  
 -   💬 Ask me about:  
 -   📫 How to reach me:  
