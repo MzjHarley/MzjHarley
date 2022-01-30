@@ -14,5 +14,8 @@ I am M**iao** Z**hi**J**un**,a sophomore at HENU.
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 ---
