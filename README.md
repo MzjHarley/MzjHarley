@@ -12,5 +12,11 @@ I am M**iao** Z**hi**J**un**,a sophomore at HENU.
 ![<img align="right" width="50%"](https://github-readme-stats.vercel.app/api?username=MzjHarley)
 ---
 <!--START_SECTION:waka-->
+```text
+C         8 repos        ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Java      6 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Python    2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+C++       2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+```
 <!--END_SECTION:waka-->
 ---
