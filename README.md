@@ -10,3 +10,9 @@ I am M**iao** Z**hi**J**un**,a sophomore at HENU.
 -   ⚡ Fun fact:
 ---
 ![<img align="right" width="50%"](https://github-readme-stats.vercel.app/api?username=MzjHarley)
+---
+#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
