@@ -13,7 +13,7 @@ I am M**iao** Z**hi**J**un**,a sophomore at HENU.
 ---
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+
 ```
 <!--END_SECTION:waka-->
 ---
