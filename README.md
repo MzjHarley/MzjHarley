@@ -13,7 +13,9 @@ I am M**iao** Z**hi**J**un**,a sophomore at HENU.
 ---
 <!--START_SECTION:waka-->
 ```text
-C   4 hrs 34 mins   █████████████████████████   100.00 % 
+C          9 hrs 21 mins   ████████████████████████▒   97.96 % 
+Markdown   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Java       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
 ---
