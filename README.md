@@ -13,6 +13,8 @@ I am M**iao** Z**hi**J**un**,a sophomore at HENU.
 ---
 <!--START_SECTION:waka-->
 ```text
+Total: 2 hrs 29 mins
+
 C   2 hrs 29 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
