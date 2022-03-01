@@ -1,6 +1,7 @@
 ## Hey，MzjHarley here 👋
 I am M**iao** Z**hi**J**un**,a sophomore at HENU.   
-I’m currently learning DataStructuresAndAlgorithms/DataAnalysisAndVisualization/PrinciplesOfComputerComposition/BigDataTechnology.  
+I’m currently learning DataStructuresAndAlgorithms/DataAnalysisAndVisualization/ComputerCompositionPrinciples/BigDataTechnology.
+
 -   🌱 I’m currently learning 
 -   👯 I’m looking to collaborate on doing the similar things.  
 -   🔭 I’m currently working in  
