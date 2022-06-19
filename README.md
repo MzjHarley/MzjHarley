@@ -22,4 +22,4 @@ No activity tracked
 <!--END_SECTION:waka-->
 ---
 
-Yeh,I will to update my github as much as possible.
+Yeh,I will update my github as much as possible.
