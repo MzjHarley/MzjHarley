@@ -1,6 +1,6 @@
 ## Hey，MzjHarley here 👋
 I am M**iao** Z**hi**J**un**,a sophomore at HENU.   
-I’m currently learning DataStructuresAndAlgorithms/DataAnalysisAndVisualization/ComputerCompositionPrinciples/BigDataTechnology.
+I’m currently learning ML/DL.
 
 -   🌱 I’m currently learning 
 -   👯 I’m looking to collaborate on doing the similar things.  
@@ -22,4 +22,4 @@ No activity tracked
 <!--END_SECTION:waka-->
 ---
 
-Yeh,I will try my best to update my github.
+Yeh,I will to update my github as much as possible.
